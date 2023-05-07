@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/ecommerce-react/static/css/main.e6c13ad2.css",
-    "main.js": "/ecommerce-react/static/js/main.5288bd44.js",
+    "main.css": "/ecommerce-react/static/css/main.1d6d69f1.css",
+    "main.js": "/ecommerce-react/static/js/main.0cead09b.js",
     "static/js/787.34115356.chunk.js": "/ecommerce-react/static/js/787.34115356.chunk.js",
     "service-worker.js": "/ecommerce-react/service-worker.js",
     "static/media/slider-img-1.png": "/ecommerce-react/static/media/slider-img-1.19372424073c6ee89254.png",
     "static/media/Paypal-logo.png": "/ecommerce-react/static/media/Paypal-logo.2358a23834ba116bbd2d.png",
     "static/media/logo.svg": "/ecommerce-react/static/media/logo.5f48cad7706d4c8d0c40694497cd4f14.svg",
     "index.html": "/ecommerce-react/index.html",
-    "main.e6c13ad2.css.map": "/ecommerce-react/static/css/main.e6c13ad2.css.map",
-    "main.5288bd44.js.map": "/ecommerce-react/static/js/main.5288bd44.js.map",
+    "main.1d6d69f1.css.map": "/ecommerce-react/static/css/main.1d6d69f1.css.map",
+    "main.0cead09b.js.map": "/ecommerce-react/static/js/main.0cead09b.js.map",
     "787.34115356.chunk.js.map": "/ecommerce-react/static/js/787.34115356.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.5288bd44.js"
+    "static/css/main.1d6d69f1.css",
+    "static/js/main.0cead09b.js"
   ]
 }
